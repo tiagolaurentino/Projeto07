@@ -77,7 +77,7 @@ main p {
     padding: 2rem;
     }
 
-.sorvete {
+.ice_cream {
     position: relative;
 }
 
@@ -108,11 +108,11 @@ h2 {
     animation: sorvete 1s;
 }
 
- .sorvete img {
+ .ice_cream img {
     transition: ease 0.8s;
 }
 
- .sorvete img:hover {
+ .ice_cream img:hover {
     transform: scale(1.1);
     opacity: 0.5;
 }
